@@ -1,6 +1,6 @@
-# 🧠 Module `ServerModel` — Simulation et analyse du comportement serveur
+#  Module `ServerModel` — Simulation et analyse du comportement serveur
 
-## 🎯 Introduction
+##  Introduction
 Le module **`ServerModel`** constitue le cœur logique du simulateur d’attaque par déni de service (DoS).  
 Il reproduit le comportement d’un **serveur virtuel** recevant un flux de requêtes, afin d’étudier l’impact d’une surcharge de trafic sur ses performances.  
 Cette approche permet d’observer les effets d’une attaque DoS sans exposer de système réel, tout en offrant une compréhension concrète du phénomène.
