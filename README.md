@@ -24,7 +24,7 @@ Depuis la racine du projet :
 python simulate_and_plot.py
 
 
-### 🔧 Utilisation avancée (modifier les paramètres de la simulation)
+###  Utilisation avancée (modifier les paramètres de la simulation)
 
 Le script `simulate_and_plot.py` expose plusieurs constantes en haut du fichier que tu peux ajuster pour tester différents scénarios.  
 Ouvre `simulate_and_plot.py` et modifie les valeurs dans la zone **PARAMÈTRES MODIFIABLES** :
@@ -45,9 +45,9 @@ SEED = 12345               # graine RNG (reproductible)
 
 ---
 
-## 🔹 Analyse et comparaison de scénarios (scripts avancés)
+##  Analyse et comparaison de scénarios (scripts avancés)
 
-### 1️⃣ `batch_run.py` — Exécution de plusieurs scénarios
+###  `batch_run.py` — Exécution de plusieurs scénarios
 
 Ce script permet de **simuler plusieurs attaques DoS** automatiquement et de comparer leurs effets sur la charge du serveur.  
 Chaque scénario définit :
