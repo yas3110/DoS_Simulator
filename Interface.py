@@ -7,6 +7,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
 import simulate_and_plot as sim
 import arpSpoofing as arps
+import matplotlib
+matplotlib.use("Agg")
 # === Ajout : Variable globale de contrôle ===
 arpspoof_running = False
 
